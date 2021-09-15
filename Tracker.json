@@ -1,5 +1,5 @@
-module.exports = [
-  // PayPal
+[
+
   {
     name: "PayPal NFA",
     price: "0.60",
@@ -30,14 +30,14 @@ module.exports = [
     link: "https://sellix.io/zelix",
     shop: "Zelix",
   },
-  // oword
+
   {
     name: "tenzin easter egg",
     price: "1.00",
     link: "https://tenzin.wtf",
     shop: "gg!",
   },
-  // Yahoo
+
   {
     name: "Yahoo",
     price: "0.20",
@@ -75,19 +75,4 @@ module.exports = [
     shop: "TheMFNPlug",
   },
 
-  // DoorDash
-
-  // Chipotle
-  
-  // Panera
-
-  // Uber Eats 
-
-  // HSN 
-
-  // SquareUp
-
-  // BlueBird
-
-  //
-];
+]
