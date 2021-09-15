@@ -64,11 +64,41 @@
     "price":"0.20",
     "link":"https://sellix.io/zelix",
     "shop":"Zelix"
+  },,
+  {
+    "name":"Yahoo",
+    "price":"0.50",
+    "link":"https://logswrld.atshop.io",
+    "shop":"LogsWRLD"
+  }
+  {
+    "name":"Yahoo",
+    "price":"0.50",
+    "link":"https://themfnplug.io",
+    "shop":"TheMFNPlug"
+  },
+  {
+    "name":"Yahoo",
+    "price":"0.50",
+    "link":"https://dynasty.atshop.io",
+    "shop":"Dynasty"
   },
   {
     "name":"Yahoo",
     "price":"0.50",
     "link":"https://themfnplug.io",
     "shop":"TheMFNPlug"
+  },
+  {
+    "name":"HSN",
+    "price":"3.00",
+    "link":"https://themfnplug.io",
+    "shop":"TheMFNPlug"
+  },
+  {
+    "name":"HSN + PP",
+    "price":"5.00",
+    "link":"https://ping.fo",
+    "shop":"Ping"
   }
 ]
